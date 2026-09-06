@@ -1,0 +1,130 @@
+ticker,company_name,sector,fiscal_period,earnings_date,time_of_day,source_url
+AAPL,Apple Inc.,Technology,Q3 FY2024,2024-08-01,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+AAPL,Apple Inc.,Technology,Q4 FY2024,2024-10-31,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+AAPL,Apple Inc.,Technology,Q1 FY2025,2025-01-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+AAPL,Apple Inc.,Technology,Q2 FY2025,2025-05-01,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+AAPL,Apple Inc.,Technology,Q3 FY2025,2025-07-31,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+AAPL,Apple Inc.,Technology,Q4 FY2025,2025-10-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+AAPL,Apple Inc.,Technology,Q1 FY2026,2026-01-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+AAPL,Apple Inc.,Technology,Q2 FY2026,2026-04-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+AAPL,Apple Inc.,Technology,Q3 FY2026,2026-07-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/AAPL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AAPL
+MSFT,Microsoft Corporation,Technology,Q1 FY2025,2024-10-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/MSFT/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=MSFT
+MSFT,Microsoft Corporation,Technology,Q2 FY2025,2025-01-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/MSFT/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=MSFT
+MSFT,Microsoft Corporation,Technology,Q3 FY2025,2025-04-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/MSFT/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=MSFT
+MSFT,Microsoft Corporation,Technology,Q4 FY2025,2025-07-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/MSFT/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=MSFT
+MSFT,Microsoft Corporation,Technology,Q1 FY2026,2025-10-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/MSFT/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=MSFT
+MSFT,Microsoft Corporation,Technology,Q2 FY2026,2026-01-28,AMC,https://www.marketbeat.com/stocks/NASDAQ/MSFT/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=MSFT
+MSFT,Microsoft Corporation,Technology,Q3 FY2026,2026-04-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/MSFT/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=MSFT
+MSFT,Microsoft Corporation,Technology,Q4 FY2026,2026-07-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/MSFT/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=MSFT
+NVDA,NVIDIA Corporation,Technology,Q3 FY2025,2024-11-20,AMC,https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings/
+NVDA,NVIDIA Corporation,Technology,Q4 FY2025,2025-02-26,AMC,https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings/
+NVDA,NVIDIA Corporation,Technology,Q1 FY2026,2025-05-28,AMC,https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings/
+NVDA,NVIDIA Corporation,Technology,Q2 FY2026,2025-08-27,AMC,https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings/
+NVDA,NVIDIA Corporation,Technology,Q3 FY2026,2025-11-19,AMC,https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings/
+NVDA,NVIDIA Corporation,Technology,Q4 FY2026,2026-02-25,AMC,https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings/
+NVDA,NVIDIA Corporation,Technology,Q1 FY2027,2026-05-20,AMC,https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027
+NVDA,NVIDIA Corporation,Technology,Q2 FY2027,2026-08-26,AMC,https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings/
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,Q3 2024,2024-10-31,AMC,https://www.marketbeat.com/stocks/NASDAQ/AMZN/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AMZN
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,Q4 2024,2025-02-06,AMC,https://www.marketbeat.com/stocks/NASDAQ/AMZN/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AMZN
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,Q1 2025,2025-05-01,AMC,https://www.marketbeat.com/stocks/NASDAQ/AMZN/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AMZN
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,Q2 2025,2025-07-31,AMC,https://www.marketbeat.com/stocks/NASDAQ/AMZN/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AMZN
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,Q3 2025,2025-10-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/AMZN/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AMZN
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,Q4 2025,2026-02-05,AMC,https://www.marketbeat.com/stocks/NASDAQ/AMZN/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AMZN
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,Q1 2026,2026-04-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/AMZN/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AMZN
+AMZN,"Amazon.com, Inc.",Consumer Discretionary,Q2 2026,2026-07-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/AMZN/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=AMZN
+GOOGL,Alphabet Inc.,Communication Services,Q3 2024,2024-10-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/GOOGL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=GOOGL
+GOOGL,Alphabet Inc.,Communication Services,Q4 2024,2025-02-04,AMC,https://www.marketbeat.com/stocks/NASDAQ/GOOGL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=GOOGL
+GOOGL,Alphabet Inc.,Communication Services,Q1 2025,2025-04-24,AMC,https://www.marketbeat.com/stocks/NASDAQ/GOOGL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=GOOGL
+GOOGL,Alphabet Inc.,Communication Services,Q2 2025,2025-07-23,AMC,https://www.marketbeat.com/stocks/NASDAQ/GOOGL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=GOOGL
+GOOGL,Alphabet Inc.,Communication Services,Q3 2025,2025-10-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/GOOGL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=GOOGL
+GOOGL,Alphabet Inc.,Communication Services,Q4 2025,2026-02-04,AMC,https://www.marketbeat.com/stocks/NASDAQ/GOOGL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=GOOGL
+GOOGL,Alphabet Inc.,Communication Services,Q1 2026,2026-04-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/GOOGL/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=GOOGL
+GOOGL,Alphabet Inc.,Communication Services,Q2 2026,2026-07-22,AMC,https://finance.biggo.com/news/ir_GOOGL_20260708_2e531f499268 (Alphabet IR conference-call announcement)
+META,"Meta Platforms, Inc.",Communication Services,Q3 2024,2024-10-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/META/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=META
+META,"Meta Platforms, Inc.",Communication Services,Q4 2024,2025-01-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/META/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=META
+META,"Meta Platforms, Inc.",Communication Services,Q1 2025,2025-04-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/META/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=META
+META,"Meta Platforms, Inc.",Communication Services,Q2 2025,2025-07-30,AMC,https://www.marketbeat.com/stocks/NASDAQ/META/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=META
+META,"Meta Platforms, Inc.",Communication Services,Q3 2025,2025-10-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/META/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=META
+META,"Meta Platforms, Inc.",Communication Services,Q4 2025,2026-01-28,AMC,https://www.marketbeat.com/stocks/NASDAQ/META/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=META
+META,"Meta Platforms, Inc.",Communication Services,Q1 2026,2026-04-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/META/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=META
+META,"Meta Platforms, Inc.",Communication Services,Q2 2026,2026-07-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/META/earnings/ ; https://www.streetinsider.com/ec_earnings.php?q=META
+JPM,JPMorgan Chase & Co.,Financials,Q3 2024,2024-10-11,BMO,https://www.marketbeat.com/stocks/NYSE/JPM/earnings/
+JPM,JPMorgan Chase & Co.,Financials,Q4 2024,2025-01-15,BMO,https://www.marketbeat.com/stocks/NYSE/JPM/earnings/
+JPM,JPMorgan Chase & Co.,Financials,Q1 2025,2025-04-11,BMO,https://www.marketbeat.com/stocks/NYSE/JPM/earnings/
+JPM,JPMorgan Chase & Co.,Financials,Q2 2025,2025-07-15,BMO,https://www.marketbeat.com/stocks/NYSE/JPM/earnings/
+JPM,JPMorgan Chase & Co.,Financials,Q3 2025,2025-10-14,BMO,https://www.marketbeat.com/stocks/NYSE/JPM/earnings/
+JPM,JPMorgan Chase & Co.,Financials,Q4 2025,2026-01-13,BMO,https://www.marketbeat.com/stocks/NYSE/JPM/earnings/
+JPM,JPMorgan Chase & Co.,Financials,Q1 2026,2026-04-14,BMO,https://www.marketbeat.com/stocks/NYSE/JPM/earnings/
+JPM,JPMorgan Chase & Co.,Financials,Q2 2026,2026-07-14,BMO,https://www.marketbeat.com/stocks/NYSE/JPM/earnings/
+BAC,Bank of America Corporation,Financials,Q3 2024,2024-10-15,BMO,https://www.marketbeat.com/stocks/NYSE/BAC/earnings/ ; https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/bank-of-america-to-report-second-quarter-2025-financial-results-.html
+BAC,Bank of America Corporation,Financials,Q4 2024,2025-01-16,BMO,https://www.marketbeat.com/stocks/NYSE/BAC/earnings/ ; https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/bank-of-america-to-report-second-quarter-2025-financial-results-.html
+BAC,Bank of America Corporation,Financials,Q1 2025,2025-04-15,BMO,https://www.marketbeat.com/stocks/NYSE/BAC/earnings/ ; https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/bank-of-america-to-report-second-quarter-2025-financial-results-.html
+BAC,Bank of America Corporation,Financials,Q2 2025,2025-07-16,BMO,https://www.marketbeat.com/stocks/NYSE/BAC/earnings/ ; https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/bank-of-america-to-report-second-quarter-2025-financial-results-.html
+BAC,Bank of America Corporation,Financials,Q3 2025,2025-10-15,BMO,https://www.marketbeat.com/stocks/NYSE/BAC/earnings/ ; https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/bank-of-america-to-report-second-quarter-2025-financial-results-.html
+BAC,Bank of America Corporation,Financials,Q4 2025,2026-01-14,BMO,https://www.marketbeat.com/stocks/NYSE/BAC/earnings/ ; https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/bank-of-america-to-report-second-quarter-2025-financial-results-.html
+BAC,Bank of America Corporation,Financials,Q1 2026,2026-04-15,BMO,https://www.marketbeat.com/stocks/NYSE/BAC/earnings/ ; https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/bank-of-america-to-report-second-quarter-2025-financial-results-.html
+BAC,Bank of America Corporation,Financials,Q2 2026,2026-07-14,BMO,https://www.marketbeat.com/stocks/NYSE/BAC/earnings/ ; https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/bank-of-america-to-report-second-quarter-2025-financial-results-.html
+XOM,Exxon Mobil Corporation,Energy,Q3 2024,2024-11-01,BMO,https://www.marketbeat.com/stocks/NYSE/XOM/earnings/ ; https://investor.exxonmobil.com/news-events/ir-calendar/detail/20260731-2q-2026-earnings-call ; https://corporate.exxonmobil.com/news/events/2026/exxonmobil-to-release-fourth-quarter-2025-financial-results
+XOM,Exxon Mobil Corporation,Energy,Q4 2024,2025-01-31,BMO,https://www.marketbeat.com/stocks/NYSE/XOM/earnings/ ; https://investor.exxonmobil.com/news-events/ir-calendar/detail/20260731-2q-2026-earnings-call ; https://corporate.exxonmobil.com/news/events/2026/exxonmobil-to-release-fourth-quarter-2025-financial-results
+XOM,Exxon Mobil Corporation,Energy,Q1 2025,2025-05-02,BMO,https://www.marketbeat.com/stocks/NYSE/XOM/earnings/ ; https://investor.exxonmobil.com/news-events/ir-calendar/detail/20260731-2q-2026-earnings-call ; https://corporate.exxonmobil.com/news/events/2026/exxonmobil-to-release-fourth-quarter-2025-financial-results
+XOM,Exxon Mobil Corporation,Energy,Q2 2025,2025-08-01,BMO,https://www.marketbeat.com/stocks/NYSE/XOM/earnings/ ; https://investor.exxonmobil.com/news-events/ir-calendar/detail/20260731-2q-2026-earnings-call ; https://corporate.exxonmobil.com/news/events/2026/exxonmobil-to-release-fourth-quarter-2025-financial-results
+XOM,Exxon Mobil Corporation,Energy,Q3 2025,2025-10-31,BMO,https://www.marketbeat.com/stocks/NYSE/XOM/earnings/ ; https://investor.exxonmobil.com/news-events/ir-calendar/detail/20260731-2q-2026-earnings-call ; https://corporate.exxonmobil.com/news/events/2026/exxonmobil-to-release-fourth-quarter-2025-financial-results
+XOM,Exxon Mobil Corporation,Energy,Q4 2025,2026-01-30,BMO,https://www.marketbeat.com/stocks/NYSE/XOM/earnings/ ; https://investor.exxonmobil.com/news-events/ir-calendar/detail/20260731-2q-2026-earnings-call ; https://corporate.exxonmobil.com/news/events/2026/exxonmobil-to-release-fourth-quarter-2025-financial-results
+XOM,Exxon Mobil Corporation,Energy,Q1 2026,2026-05-01,BMO,https://www.marketbeat.com/stocks/NYSE/XOM/earnings/ ; https://investor.exxonmobil.com/news-events/ir-calendar/detail/20260731-2q-2026-earnings-call ; https://corporate.exxonmobil.com/news/events/2026/exxonmobil-to-release-fourth-quarter-2025-financial-results
+XOM,Exxon Mobil Corporation,Energy,Q2 2026,2026-07-31,BMO,https://www.marketbeat.com/stocks/NYSE/XOM/earnings/ ; https://investor.exxonmobil.com/news-events/ir-calendar/detail/20260731-2q-2026-earnings-call ; https://corporate.exxonmobil.com/news/events/2026/exxonmobil-to-release-fourth-quarter-2025-financial-results
+CVX,Chevron Corporation,Energy,Q3 2024,2024-11-01,BMO,https://www.marketbeat.com/stocks/NYSE/CVX/earnings/ ; https://marketchameleon.com/Overview/CVX/Earnings/Earnings-Dates/
+CVX,Chevron Corporation,Energy,Q4 2024,2025-01-31,BMO,https://www.marketbeat.com/stocks/NYSE/CVX/earnings/ ; https://marketchameleon.com/Overview/CVX/Earnings/Earnings-Dates/
+CVX,Chevron Corporation,Energy,Q1 2025,2025-05-02,BMO,https://www.marketbeat.com/stocks/NYSE/CVX/earnings/ ; https://marketchameleon.com/Overview/CVX/Earnings/Earnings-Dates/
+CVX,Chevron Corporation,Energy,Q2 2025,2025-08-01,BMO,https://www.marketbeat.com/stocks/NYSE/CVX/earnings/ ; https://marketchameleon.com/Overview/CVX/Earnings/Earnings-Dates/
+CVX,Chevron Corporation,Energy,Q3 2025,2025-10-31,BMO,https://www.marketbeat.com/stocks/NYSE/CVX/earnings/ ; https://marketchameleon.com/Overview/CVX/Earnings/Earnings-Dates/
+CVX,Chevron Corporation,Energy,Q4 2025,2026-01-30,BMO,https://www.marketbeat.com/stocks/NYSE/CVX/earnings/ ; https://marketchameleon.com/Overview/CVX/Earnings/Earnings-Dates/
+CVX,Chevron Corporation,Energy,Q1 2026,2026-05-01,BMO,https://www.marketbeat.com/stocks/NYSE/CVX/earnings/ ; https://marketchameleon.com/Overview/CVX/Earnings/Earnings-Dates/
+CVX,Chevron Corporation,Energy,Q2 2026,2026-07-31,BMO,https://www.marketbeat.com/stocks/NYSE/CVX/earnings/ ; https://marketchameleon.com/Overview/CVX/Earnings/Earnings-Dates/
+UNH,UnitedHealth Group Incorporated,Health Care,Q3 2024,2024-10-15,BMO,https://www.marketbeat.com/stocks/NYSE/UNH/earnings/
+UNH,UnitedHealth Group Incorporated,Health Care,Q4 2024,2025-01-16,BMO,https://www.marketbeat.com/stocks/NYSE/UNH/earnings/
+UNH,UnitedHealth Group Incorporated,Health Care,Q1 2025,2025-04-17,BMO,https://www.marketbeat.com/stocks/NYSE/UNH/earnings/
+UNH,UnitedHealth Group Incorporated,Health Care,Q2 2025,2025-07-29,BMO,https://www.marketbeat.com/stocks/NYSE/UNH/earnings/
+UNH,UnitedHealth Group Incorporated,Health Care,Q3 2025,2025-10-28,BMO,https://www.marketbeat.com/stocks/NYSE/UNH/earnings/
+UNH,UnitedHealth Group Incorporated,Health Care,Q4 2025,2026-01-27,BMO,https://www.marketbeat.com/stocks/NYSE/UNH/earnings/
+UNH,UnitedHealth Group Incorporated,Health Care,Q1 2026,2026-04-21,BMO,https://www.marketbeat.com/stocks/NYSE/UNH/earnings/
+UNH,UnitedHealth Group Incorporated,Health Care,Q2 2026,2026-07-16,BMO,https://www.marketbeat.com/stocks/NYSE/UNH/earnings/
+PG,Procter & Gamble Company,Consumer Staples,Q1 FY2025,2024-10-18,BMO,https://www.marketbeat.com/stocks/NYSE/PG/earnings/
+PG,Procter & Gamble Company,Consumer Staples,Q2 FY2025,2025-01-22,BMO,https://www.marketbeat.com/stocks/NYSE/PG/earnings/
+PG,Procter & Gamble Company,Consumer Staples,Q3 FY2025,2025-04-24,BMO,https://www.marketbeat.com/stocks/NYSE/PG/earnings/
+PG,Procter & Gamble Company,Consumer Staples,Q4 FY2025,2025-07-29,BMO,https://www.marketbeat.com/stocks/NYSE/PG/earnings/
+PG,Procter & Gamble Company,Consumer Staples,Q1 FY2026,2025-10-24,BMO,https://www.marketbeat.com/stocks/NYSE/PG/earnings/
+PG,Procter & Gamble Company,Consumer Staples,Q2 FY2026,2026-01-23,BMO,https://www.marketbeat.com/stocks/NYSE/PG/earnings/
+PG,Procter & Gamble Company,Consumer Staples,Q3 FY2026,2026-04-24,BMO,https://www.marketbeat.com/stocks/NYSE/PG/earnings/
+PG,Procter & Gamble Company,Consumer Staples,Q4 FY2026,2026-07-29,BMO,https://www.marketbeat.com/stocks/NYSE/PG/earnings/
+HD,"Home Depot, Inc.",Consumer Discretionary,Q3 FY2024,2024-11-12,BMO,https://www.marketbeat.com/stocks/NYSE/HD/earnings/ ; https://247wallst.com/cards/home-depot-reports-at-6-00-am-et-confirmed-and-comparable-hd-earnings-calendar-01m0a1pgbr5aw0g9zqbwz77d58
+HD,"Home Depot, Inc.",Consumer Discretionary,Q4 FY2024,2025-02-25,BMO,https://www.marketbeat.com/stocks/NYSE/HD/earnings/ ; https://247wallst.com/cards/home-depot-reports-at-6-00-am-et-confirmed-and-comparable-hd-earnings-calendar-01m0a1pgbr5aw0g9zqbwz77d58
+HD,"Home Depot, Inc.",Consumer Discretionary,Q1 FY2025,2025-05-20,BMO,https://www.marketbeat.com/stocks/NYSE/HD/earnings/ ; https://247wallst.com/cards/home-depot-reports-at-6-00-am-et-confirmed-and-comparable-hd-earnings-calendar-01m0a1pgbr5aw0g9zqbwz77d58
+HD,"Home Depot, Inc.",Consumer Discretionary,Q2 FY2025,2025-08-19,BMO,https://www.marketbeat.com/stocks/NYSE/HD/earnings/ ; https://247wallst.com/cards/home-depot-reports-at-6-00-am-et-confirmed-and-comparable-hd-earnings-calendar-01m0a1pgbr5aw0g9zqbwz77d58
+HD,"Home Depot, Inc.",Consumer Discretionary,Q3 FY2025,2025-11-18,BMO,https://www.marketbeat.com/stocks/NYSE/HD/earnings/ ; https://247wallst.com/cards/home-depot-reports-at-6-00-am-et-confirmed-and-comparable-hd-earnings-calendar-01m0a1pgbr5aw0g9zqbwz77d58
+HD,"Home Depot, Inc.",Consumer Discretionary,Q4 FY2025,2026-02-24,BMO,https://www.marketbeat.com/stocks/NYSE/HD/earnings/ ; https://247wallst.com/cards/home-depot-reports-at-6-00-am-et-confirmed-and-comparable-hd-earnings-calendar-01m0a1pgbr5aw0g9zqbwz77d58
+HD,"Home Depot, Inc.",Consumer Discretionary,Q1 FY2026,2026-05-19,BMO,https://www.marketbeat.com/stocks/NYSE/HD/earnings/ ; https://247wallst.com/cards/home-depot-reports-at-6-00-am-et-confirmed-and-comparable-hd-earnings-calendar-01m0a1pgbr5aw0g9zqbwz77d58
+HD,"Home Depot, Inc.",Consumer Discretionary,Q2 FY2026,2026-08-18,BMO,https://www.marketbeat.com/stocks/NYSE/HD/earnings/ ; https://247wallst.com/cards/home-depot-reports-at-6-00-am-et-confirmed-and-comparable-hd-earnings-calendar-01m0a1pgbr5aw0g9zqbwz77d58
+NFLX,"Netflix, Inc.",Communication Services,Q3 2024,2024-10-17,AMC,https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/
+NFLX,"Netflix, Inc.",Communication Services,Q4 2024,2025-01-21,AMC,https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/
+NFLX,"Netflix, Inc.",Communication Services,Q1 2025,2025-04-17,AMC,https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/
+NFLX,"Netflix, Inc.",Communication Services,Q2 2025,2025-07-17,AMC,https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/
+NFLX,"Netflix, Inc.",Communication Services,Q3 2025,2025-10-21,AMC,https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/
+NFLX,"Netflix, Inc.",Communication Services,Q4 2025,2026-01-20,AMC,https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/
+NFLX,"Netflix, Inc.",Communication Services,Q1 2026,2026-04-16,AMC,https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/
+NFLX,"Netflix, Inc.",Communication Services,Q2 2026,2026-07-16,AMC,https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/
+TSLA,"Tesla, Inc.",Consumer Discretionary,Q3 2024,2024-10-23,AMC,https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/
+TSLA,"Tesla, Inc.",Consumer Discretionary,Q4 2024,2025-01-29,AMC,https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/
+TSLA,"Tesla, Inc.",Consumer Discretionary,Q1 2025,2025-04-22,AMC,https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/
+TSLA,"Tesla, Inc.",Consumer Discretionary,Q2 2025,2025-07-23,AMC,https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/
+TSLA,"Tesla, Inc.",Consumer Discretionary,Q3 2025,2025-10-23,AMC,https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/
+TSLA,"Tesla, Inc.",Consumer Discretionary,Q4 2025,2026-01-28,AMC,https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/
+TSLA,"Tesla, Inc.",Consumer Discretionary,Q1 2026,2026-04-23,AMC,https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/
+TSLA,"Tesla, Inc.",Consumer Discretionary,Q2 2026,2026-07-23,AMC,https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/
+CAT,Caterpillar Inc.,Industrials,Q3 2024,2024-10-30,BMO,https://www.marketbeat.com/stocks/NYSE/CAT/earnings/
+CAT,Caterpillar Inc.,Industrials,Q4 2024,2025-01-30,BMO,https://www.marketbeat.com/stocks/NYSE/CAT/earnings/
+CAT,Caterpillar Inc.,Industrials,Q1 2025,2025-04-30,BMO,https://www.marketbeat.com/stocks/NYSE/CAT/earnings/
+CAT,Caterpillar Inc.,Industrials,Q2 2025,2025-08-05,BMO,https://www.marketbeat.com/stocks/NYSE/CAT/earnings/
+CAT,Caterpillar Inc.,Industrials,Q3 2025,2025-11-03,BMO,https://www.marketbeat.com/stocks/NYSE/CAT/earnings/
+CAT,Caterpillar Inc.,Industrials,Q4 2025,2026-01-29,BMO,https://www.marketbeat.com/stocks/NYSE/CAT/earnings/
+CAT,Caterpillar Inc.,Industrials,Q1 2026,2026-04-30,BMO,https://www.marketbeat.com/stocks/NYSE/CAT/earnings/
+CAT,Caterpillar Inc.,Industrials,Q2 2026,2026-08-04,BMO,https://www.marketbeat.com/stocks/NYSE/CAT/earnings/
